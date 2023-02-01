@@ -1,0 +1,17 @@
+.projects-section {
+    margin-bottom: 33px;
+}
+
+.projects-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+@media (max-width : 768px) {
+    .projects-wrapper {
+        justify-content: center;
+    }
+}
+

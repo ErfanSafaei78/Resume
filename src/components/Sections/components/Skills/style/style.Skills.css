@@ -1,0 +1,18 @@
+.intro-section {
+    margin-bottom: 29px;
+}
+.intro-section .skills{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+}
+.skills .skill {
+    background-color: #0067F6;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+    margin:3px
+}
