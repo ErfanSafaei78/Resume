@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e569cb9.css",
+    "main.js": "/static/js/main.9c5c8dca.js",
+    "static/media/chemnitzImage.png": "/static/media/chemnitzImage.a21af0c32f5927e6e9c9.png",
+    "static/media/profileImg.jpg": "/static/media/profileImg.815c1a6d099e72c4ada7.jpg",
+    "static/media/triangles-bottom.svg": "/static/media/triangles-bottom.b7e66d607d80493db2d8.svg",
+    "static/media/share.svg": "/static/media/share.a5b9f1c7b97dc538ffcc8063ad0ddc10.svg",
+    "static/media/triangles-top.svg": "/static/media/triangles-top.aa97cd973b6a6b6ccd3d.svg",
+    "index.html": "/index.html",
+    "static/media/download.svg": "/static/media/download.09911d0c64f5126f3cb11e4db612838a.svg",
+    "main.1e569cb9.css.map": "/static/css/main.1e569cb9.css.map",
+    "main.9c5c8dca.js.map": "/static/js/main.9c5c8dca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e569cb9.css",
+    "static/js/main.9c5c8dca.js"
+  ]
+}
